@@ -1,0 +1,79 @@
+﻿body {
+          font-family:'Open Sans', sans-serif;
+    font-size:20px;
+	background-color: #A8E2FF;
+}
+.alg-right-pad {
+    float:left;
+    padding-left:22px;
+}
+a:hover {
+    text-decoration:none;
+	
+}
+
+.navbar-default {
+background-color: #BE04F9;  
+}
+.navbar {
+ border-radius: 0px; 
+}
+.navbar-default .navbar-nav > li > a {
+color: #FFF;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #FFF;
+	text-align: center;
+	align-items: center;
+}
+
+.navbar-default .navbar-brand {
+color: #FFFFFF;
+}
+.navbar-default .navbar-brand:hover {
+color: #FFFFFF;  
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+color: #050505;
+background-color: #FFFFFF;
+}
+
+
+.row {
+    margin-bottom:15px;
+}
+.btn {
+    margin-bottom:9px;
+}
+
+.box-border {
+	border-radius: 23px;
+}
+
+
+.list-group a {
+   
+    font-size:19px;
+    font-weight:900;
+    color:#00000;
+	  border: 1px solid #FFF700;
+  border-color: #FFF700;
+}
+
+
+
+
+.mi-slider {
+margin-top: 0px;
+}
+
+/*FOOTER SECTION*/
+ 
+
+.end-box {
+    padding:10px;
+     color:#000;
+     background-color:#FFF700;
+     font-size:14px;
+
+}
